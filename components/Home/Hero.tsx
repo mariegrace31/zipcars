@@ -10,7 +10,7 @@ function Hero() {
         <p className='text-gray-500 py-2 md:text-2xl md:py-8'>Discover the freedom of seamless car rentals. Choose from a variety of vehicles,
           enjoy competitive rates, and hit the road with confidence.</p>
         <button className='bg-green-700 flex gap-2 items-center p-2 rounded-md text-white md:p-3 md:text-xl md:my-8'>Explore Cars <FaArrowRight />  </button>
-            
+             <div></div>
       </div>
       <div>
         <Image src='/HomePImage.jpeg'
