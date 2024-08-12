@@ -12,6 +12,7 @@ function Hero() {
         <button className='bg-green-700 flex gap-2 items-center p-2 rounded-md text-white md:p-3 md:text-xl md:my-8'>Explore Cars <FaArrowRight />  </button>
              <div></div>
       </div>
+      
       <div>
         <Image src='/HomePImage.jpeg'
         alt='Hero'
