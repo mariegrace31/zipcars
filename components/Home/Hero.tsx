@@ -13,6 +13,7 @@ function Hero() {
              <div></div>
       </div>
       
+
       <div>
         <Image src='/HomePImage.jpeg'
         alt='Hero'
